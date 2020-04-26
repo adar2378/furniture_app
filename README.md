@@ -1,16 +1,16 @@
 # furnitureapp
 
-A new Flutter project.
+Hey guys, I created this video for people with beginner Flutter knowledge to have an idea about the usage of different widgets. Also, I used custom tab indicator, you can observe the code to understand how Flutter gives you access to manipulate every pixel of the screen. I used flutter_screenutil for responsive UI. It is a very handy library for making apps responsive.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+These screens were designed by my good designer friend Atiq. Here's the link: 
+## https://dribbble.com/shots/11131528-Furniture-App-UI
 
-A few resources to get you started if this is your first Flutter project:
+## Watch me code this UI : https://www.youtube.com/watch?v=zGzcwQUzxds
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Ask me any questions in the comment box or you can also email me here: saifulislamadar@gmail.com
+Enjoy!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design
+
+<img src="https://i.ibb.co/KFdpgrv/Screenshot-2020-04-26-at-11-06-23-PM.png" alt="Screenshot-2020-04-26-at-11-06-23-PM" border="0">
